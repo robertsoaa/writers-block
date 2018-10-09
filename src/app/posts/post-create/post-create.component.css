@@ -1,0 +1,16 @@
+mat-card {
+  background-color: #c2185b;
+  opacity: .8
+}
+
+
+::placeholder {
+  color: black
+}
+
+mat-form-field,
+textarea {
+  width: 100%;
+  background-color: black;
+  color: white;
+}

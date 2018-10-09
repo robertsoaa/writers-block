@@ -1,0 +1,15 @@
+:host {
+  display: block;
+  margin-top: 1rem;
+}
+
+info-text {
+  text-align: center
+}
+.mat-body-1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+  display: block;
+  background-color: #c2185b;
+  text-align: center;
+}
